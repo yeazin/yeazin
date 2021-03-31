@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact&bg_color=black)](https://github.com/yeazin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin/github-readme-stats)
 
 <!--
 **yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

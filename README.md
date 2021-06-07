@@ -1,5 +1,6 @@
 
 ### Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://www.github.com/yeazin/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
@@ -11,16 +12,15 @@
 </a>
 
 
+
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
 
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
-
-
-###
+Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin/github-readme-stats)
 
+<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 <!--
 **yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

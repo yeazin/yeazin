@@ -20,7 +20,7 @@
 Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
   
-<h3> Technologies I like to work with
+<h3> Technologies I like to work with</h3>
  <table>
    <tr>
       <td>

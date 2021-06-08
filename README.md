@@ -19,6 +19,8 @@
 
 Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin)
   
 <h2> Technologies I like to work with</h2>
  <table>
@@ -101,14 +103,13 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
  </table>
  
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin)
+
 
 <a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin)  
-
+<h2> My Recent Repos </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>

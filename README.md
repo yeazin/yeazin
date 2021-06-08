@@ -68,23 +68,23 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
        <br> Git
      </td>
         <td align="center">
-       <img alt="bash" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
        <br> Bash
      </td>
     <td align="center">
-       <img alt="linux" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
        <br> Linux
      </td>   
     <td align="center">
-       <img alt="sql" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
        <br> Debian
      </td> 
        <td align="center">
-       <img alt="debian" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
        <br> MySQL
      </td> 
        <td align="center">
-       <img alt="Posql" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
        <br> PostgreSQL
      </td> 
           <td align="center">

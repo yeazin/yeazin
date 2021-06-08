@@ -17,12 +17,12 @@
 
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
 
-Hi I am __Yeasin__, a passoniate Fullstack deveolper from __Bangladesh__
+Hi I am __Yeasin__, a passoniate Fullstack deveolper from __Bangladesh__ 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin)
   
-<h2> Technologies I like to work with</h2>
+<h2> Technologies I like to work with ❤️</h2>
  <table>
    <tr>
       <td>
@@ -109,7 +109,7 @@ Hi I am __Yeasin__, a passoniate Fullstack deveolper from __Bangladesh__
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true)  
-<h2> My Recent Repos </h2>
+<h2> My Recent Repos 📁</h2>
 <a href="https://github.com/yeazin/Movement-Pass-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>

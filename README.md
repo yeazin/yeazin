@@ -105,7 +105,7 @@ Hi I am __Yeasin__ , a passoniate Fullstack deveolper from __Bangladesh__.I am a
  
 
 
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true)  
@@ -130,4 +130,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 -->

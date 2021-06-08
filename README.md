@@ -14,7 +14,7 @@
  
 
 
-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:naz.yeasin@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
 
 Hi I am __Yeasin__ , a passoniate Fullstack deveolper from __Bangladesh__.I am a __self-taught__ software Developer. I have a profound knowledge in __Django, Javascript & Rest Famework__. I love to work with new Technologies and like to learn new things everytime .

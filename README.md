@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
 
-Hi I am __Yeasin__, a passoniate Fullstack deveolper from __Bangladesh__ 
+Hi I am __Yeasin__ , a passoniate Fullstack deveolper from __Bangladesh__.I am a __self-taught__ software Developer. I have a profound knowledge in __Django, Javascript & Rest Famework__. I love to work with new Technologies and like to learn new things everytime .
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin)

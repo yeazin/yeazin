@@ -46,25 +46,25 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
        <br> CSS3
      </td>
      <td align="center">
-       <img alt="scss" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+       <img alt="scss" height=64px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
        <br> SASS
      </td>
          <td align="center">
-       <img alt="vscode" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
        <br> VSCode
      </td> 
      <td align="center">
-       <img alt="pycahrm" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
        <br> PyCharm
      </td> 
       <td align="center">
-       <img alt="docker" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
        <br> Docker
      </td> 
    </tr>
    <tr>
      <td align="center">
-       <img alt="git" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
        <br> Git
      </td>
         <td align="center">
@@ -88,15 +88,15 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
        <br> PostgreSQL
      </td> 
           <td align="center">
-       <img alt="jquery" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+       <img alt="jquery" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
        <br> Jquery
      </td> 
     <td align="center">
-       <img alt="wordpress" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
        <br> WordPress
      </td> 
      <td align="center">
-       <img alt="html5" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
        <br> HTML5
      </td> 
    </tr>

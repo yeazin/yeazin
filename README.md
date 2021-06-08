@@ -110,10 +110,10 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin)  
 <h2> My Recent Repos </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yeazin/Movement-Pass-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
 </a>
 

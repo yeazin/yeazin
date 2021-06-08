@@ -18,7 +18,7 @@
 Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin/Django_Custom_User_Model)
 
 <a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 

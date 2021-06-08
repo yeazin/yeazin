@@ -20,7 +20,7 @@
 Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
 
   
-<h3> Technologies I like to work with</h3>
+<h2> Technologies I like to work with</h2>
  <table>
    <tr>
       <td>
@@ -47,6 +47,18 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
        <img alt="scss" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
        <br> SASS
      </td>
+         <td align="center">
+       <img alt="vscode" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+       <br> VSCode
+     </td> 
+     <td align="center">
+       <img alt="pycahrm" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+       <br> PyCharm
+     </td> 
+      <td align="center">
+       <img alt="docker" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+       <br> Docker
+     </td> 
    </tr>
    <tr>
      <td align="center">
@@ -73,33 +85,20 @@ Hi I am __Yeasin__, a passionate Fullstack deveolper from __Bangladesh__
        <img alt="Posql" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
        <br> PostgreSQL
      </td> 
-   </tr>
-   <tr>
-            <td align="center">
-       <img alt="vscode" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-       <br> VSCode
-     </td> 
-            <td align="center">
-       <img alt="pycahrm" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-       <br> PyCharm
-     </td> 
-            <td align="center">
-       <img alt="docker" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-       <br> Docker
-     </td> 
-            <td align="center">
+          <td align="center">
        <img alt="jquery" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
        <br> Jquery
      </td> 
-            <td align="center">
+    <td align="center">
        <img alt="wordpress" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
        <br> WordPress
      </td> 
-            <td align="center">
+     <td align="center">
        <img alt="html5" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
        <br> HTML5
      </td> 
    </tr>
+
  </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&layout=compact)](https://github.com/yeazin)

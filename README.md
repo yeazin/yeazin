@@ -109,8 +109,7 @@
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
-  <h2> Profile Trophy </h2>
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h2> My Project Repos 📁</h2>
 <a href="https://github.com/yeazin/Movement-Pass-Clone">

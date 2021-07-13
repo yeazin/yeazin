@@ -50,7 +50,7 @@
        <br> SASS
      </td>
          <td align="center">
-       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
      </td> 
      <td align="center">

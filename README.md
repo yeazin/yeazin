@@ -111,7 +111,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
 
 
-<h2> My Project Repos 📁</h2>
+<h2> My Project Projects 📁</h2>
 <a href="https://github.com/yeazin/Movement-Pass-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>

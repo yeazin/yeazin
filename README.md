@@ -121,7 +121,7 @@
  <a href="https://github.com/yeazin/Stackoverflow-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
 </a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
+ <a href="https://github.com/yeazin/Zooming-cls">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
 </a>
 <!--

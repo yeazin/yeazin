@@ -86,11 +86,7 @@
        <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
        <br> PostgreSQL
-     </td> 
-          <td align="center">
-       <img alt="jquery" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-       <br> Jquery
-     </td> 
+     </td>  
     <td align="center">
        <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
        <br> WordPress

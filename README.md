@@ -53,16 +53,17 @@
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
      </td> 
-     <td align="center">
-       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-       <br> PyCharm
-     </td> 
+
       <td align="center">
        <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
        <br> Docker
      </td> 
    </tr>
    <tr>
+          <td align="center">
+       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+       <br> PyCharm
+     </td> 
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
        <br> Git

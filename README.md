@@ -49,10 +49,7 @@
        <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
        <br> CSS3
      </td>
-     <td align="center">
-       <img alt="scss" height=64px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-       <br> SASS
-     </td>
+
          <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode

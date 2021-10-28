@@ -33,6 +33,10 @@
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
        <br> Django 
      </td>
+          <td align="center">
+       <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
+       <br> Rest Framework
+     </td>
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
@@ -49,8 +53,7 @@
        <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
        <br> CSS3
      </td>
-
-         <td align="center">
+     <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
      </td> 

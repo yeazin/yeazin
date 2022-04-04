@@ -19,8 +19,18 @@
 
 <h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin)
+ <table align="center">
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
+   </tr>
+  </table>
+  
+
+
+
   
 <h2> Technologies I like to work with ❤️</h2>
  <table>

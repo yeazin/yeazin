@@ -116,7 +116,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeazin&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
 
 
  

@@ -1,19 +1,12 @@
 
 <h1 align="center"> Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>
-<p >
-<a href="https://www.github.com/yeazin/">
-  <img align="left" alt="Yeasin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yeazin/">
-  <img align="left" alt="Yeasin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
- 
 
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeazin/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:naz.yeasin@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
 
 <h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 

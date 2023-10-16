@@ -13,7 +13,7 @@
 
 <h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
- <table align="center" >
+ <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
   
@@ -27,7 +27,7 @@
 
   
 <h2> Technologies I like to work with ❤️</h2>
- <table>
+ <table width="100% height="100%">
    <tr>
       <td>
         <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

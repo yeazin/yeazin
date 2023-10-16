@@ -3,13 +3,13 @@
 <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>
 
 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeazin/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
 
 <h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
@@ -27,7 +27,7 @@
 
   
 <h2> Technologies I like to work with ❤️</h2>
- <table width="100% height="100%">
+ <table width="100% height="100%" align="center">
    <tr>
       <td>
         <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -89,7 +89,7 @@
 
  </table>
  
-
+<br>
 
 
 
@@ -114,6 +114,7 @@
 </a>
 
 <br>
+<br>
 
 ## Let's colab 🚀
 
@@ -124,6 +125,7 @@
   <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
+
 
 <br>
 

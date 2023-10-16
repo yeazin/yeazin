@@ -113,6 +113,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
 </a>
 
+<br>
+
+## Let's colab 🚀
+
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+
+<p>
+  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
+
+<br>
 
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>

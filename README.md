@@ -11,6 +11,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
+<!--
 <h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
  <table align="center" width="100%" height="100%" >
@@ -22,9 +23,9 @@
    </tr>
   </table>
   
+-->
 
-
-
+<!-- 
   
 <h2> Technologies I like to work with ❤️</h2>
  <table width="100% height="100%" align="center">
@@ -90,14 +91,14 @@
  </table>
  
 <br>
-
+-->
 
 
 
 [![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeazin&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
 
 
- 
+ <!-- 
  
 <h2> My Projects 📁</h2>
 <a href="https://github.com/yeazin/Movement-Pass-Clone">
@@ -112,7 +113,7 @@
  <a href="https://github.com/yeazin/Zooming-cls">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
 </a>
-
+-->
 <br>
 <br>
 
